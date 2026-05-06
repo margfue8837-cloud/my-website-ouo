@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       
+        <title>My First Website</title>
+    </head>
+    <body>
+        
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About Me</a>
+        <a href="contact.html">Contact</a>
+        <a href="hobbies.html">Hobbies</a>
+    </nav>
+    
+        <h1>Hello World!</h1>
+    <h1>
+        <p></p>
+        <h1>Welcome to my webpage</h1>
+        <h2>About me</h2>
+        <ul>
+            <li>Favorite Food: Venezuelan food</li>
+            <li>Favorite hobby: Playing volleyball</li>
+            <li>Dream Career: Volleyball player</li>
+        </ul>
+        <h2>My Goals</h2>
+        <p>I want to learn coding because it is a great opportunity to dive into a new concept. People dont usually know how to code, or what coding even means so it would be a great skill to develop.</p>
+        <ul>
+        <h2>More About Me!</h2>
+            <li>Pet Name: Lucky Andres</li>
+            <li>My fam: Mom,Dad,and a sister</li>
+            <li>School: Uplift Elevate Preparatory</li>
+        </ul>
+        <p>Some more about me, My name is Maria. I am from venezuela, A small country in South America near the caribean Ocean, Food and people there are amaizing, we also have many turistic places you should visit for example: Los Roques Island</p>
+   <img src=https://media.tenor.com/Yo8syk4kF_EAAAAM/bad-bunny-grammys.gif alt="insert text" width="200" height="200">
+   
+
+    </body>
+    <footer>
+        <txt>@ 2026 My Website</txt>
+        <txt>Email:Margfue8827@students.gmail.com</txt>
+    </footer>
+
+<style>
+
+        nav {
+            background-color: pink;
+            padding: 10px;
+            
+        }
+        
+        nav a {
+           color: white;
+        }
+        
+        nav a:hover {
+            color: white;
+        }
+
+
+    footer {
+            background-color: pink;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+
+    txt {
+        color:white;
+    }
+    
+   h1 {
+       color:pink;
+   } 
+    
+    p {
+       color:pink;
+   } 
+   
+   h2 {
+       color:pink;
+   } 
+    
+    li {
+       color:pink;
+   } 
+   
+</style>
+
+</html>
